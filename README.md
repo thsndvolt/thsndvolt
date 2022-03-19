@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @thsndvolt
+- 👀 I’m interested in learning JS/CI/CD
+- 🌱 I’m currently learning JS
+- 💞️ I’m looking to collaborate on open source
